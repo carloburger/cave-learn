@@ -17,6 +17,17 @@ Interactive frontend for learning Clean Architecture — part of the CAVE (CA Vi
 - Plain CSS with CSS Modules
 - Google Fonts: Bricolage Grotesque, Plus Jakarta Sans, JetBrains Mono
 
+## Setting up the repo
+
+**If you are cloning this for the first time:**
+
+```bash
+git clone https://github.com/CA-Visualizer-for-Education/cave-learn.git
+cd cave-learn
+npm install
+npm run dev
+```
+
 ## Getting started
 
 ```bash

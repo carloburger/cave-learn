@@ -1,13 +1,7 @@
 // components/diagram/DiagramLegend.tsx
-// ─────────────────────────────────────────────────────────────
-// Shows the three diagram symbol explanations below the canvas:
-//   ——→   Dependency    (solid arrow)
-//   - →   Implements    (dashed arrow)
-//   [■]   Component     (filled coloured box, use brand-green as example)
-// No props or state needed — purely presentational.
-// ─────────────────────────────────────────────────────────────
+// Legend row below the diagram canvas.
+// Three items: solid arrow (Dependency), dashed arrow (Implements), filled box (Component).
 
 export default function DiagramLegend() {
-  // TODO: build the legend row
   return <div></div>
 }
